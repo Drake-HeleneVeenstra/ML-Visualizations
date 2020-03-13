@@ -1,5 +1,7 @@
 ###
 # This script tests different types of clustering, and compares performance
+# Adapted from https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html
+# As accessed 10 March 2020
 ###
 
 import numpy as np
